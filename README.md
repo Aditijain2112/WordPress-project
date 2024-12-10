@@ -4,6 +4,8 @@ Project name: Crepod
 
 It is a platform designed to connect talented creators, artists, and hobbyists with individuals seeking engaging, hands-on workshops to make their weekends and free time productive and memorable. Whether it’s pottery, cooking, or candle making, the platform bridges the gap between creativity and community, empowering creators to monetize their skills while offering consumers enriching experiences tailored to their interests.
 
+[WordPress website]()
+
 **This project showcases a functional prototype with features for:**
 
 Creators: Easy workshop setup, management tools and analytics.
