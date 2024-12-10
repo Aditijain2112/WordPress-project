@@ -5,12 +5,14 @@ It is a platform designed to connect talented creators, artists, and hobbyists w
 
 **This project showcases a functional prototype with features for:**
 
-Creators: Easy workshop setup and management tools.
+Creators: Easy workshop setup, management tools and analytics.
 
 Consumers: Simple workshop discovery, booking, and personalized recommendations.
 
 **Technical Stack:**
 
 CMS: WordPress
+
 Plugins: Utilized for booking management and user interface enhancements.
+
 Note: This project is a conceptual prototype to demonstrate the potential features and design. It is not a fully deployed production platform.
